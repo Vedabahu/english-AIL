@@ -1628,7 +1628,7 @@ document.getElementsByTagName("body")[0].setAttribute("style", "z-index: 0");
     a.id = "top-1";
     a.style = "display: none";
     a.innerHTML =
-      '<a href="https://mobiri.se/ac">Wix Competitors</a> Mobirise v5.6.5 <a href="https://mobirise.com/website-maker.html">Best Web Site Maker</a>';
+      '<a href="https://mobiri.se/a9">Free Website Creator</a> Mobirise v5.6.5 <a href="https://mobirise.com/bio/link-in-bio.html">Link Bio</a>';
     document.body.insertBefore(a, document.body.childNodes[0]);
   }
 })();
